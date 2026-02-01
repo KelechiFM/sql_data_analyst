@@ -26,3 +26,4 @@ The project answers real business questions such as:
 - Highest revenue categories
 - Top 5 customers
 - Sales distribution by time of day
+![alt text](screenshots/sql_bussiness_analysis.jpg)
