@@ -27,3 +27,6 @@ The project answers real business questions such as:
 - Top 5 customers
 - Sales distribution by time of day
 ![alt text](screenshots/sql_bussiness_analysis.jpg)
+![alt text](screenshots/sql_avg_num_of_customer_purchased_beauty_products.jpg)
+![alt text](screenshots/sql_best_selling_month_year.jpg)
+![alt text](screenshots/sql_finding_total_Sale_above_1000.jpg)
